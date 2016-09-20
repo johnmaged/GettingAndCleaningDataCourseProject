@@ -24,7 +24,7 @@ After unzipping the data, we have a folder called `UCI HAR Dataset` and we will 
 
 ##Output
 
-The required tidy dataset `tidy_data.txt` is generated, with the average of each variable for each activity and each subject.
+The required tidy dataset `tidydata.txt` is generated, with the average of each variable for each activity and each subject.
 
 
 ##Variables
@@ -45,7 +45,7 @@ The variables in the tidy dataset include:
 
 - subjectID: contain the subject IDs.
 
-- variables in the 3rd to 81th column, which are extracted from the [features_info.txt](https://github.com/nguyen-toan/datasciencecoursera/blob/master/03_GettingData/PeerAssessment/features_info.txt) file on the original dataset.
+- variables in the 3rd to 81th column, which are extracted from the [features_info.txt](https://github.com/johnmaged/GettingAndCleaningDataCourseProject/blob/master/features_info.txt) file on the original dataset.
 
 ## Description of analysis process:
 
